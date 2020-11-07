@@ -1,1 +1,3 @@
 This is file 1.
+
+Look: it is another line in file 1.
